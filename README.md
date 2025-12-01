@@ -19,6 +19,7 @@ El sistema gestiona **usuarios con diferentes roles** (Administrador, Cocinero, 
 - Extensiones futuras: priorización, categorías, notificaciones.
 
 ## Estructura del proyecto
+```
 sistema-tareas-restaurante/ 
 │ 
 ├── src/ # Código fuente 
@@ -33,38 +34,36 @@ sistema-tareas-restaurante/
 ├── examples/ # Archivos de ejemplo (usuarios_demo.txt, tareas_demo.txt) 
 ├── config/ # Configuración adicional 
 └── README.md # Este documento
-
+```
 
 ## Instalación y ejecución
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/<usuario>/sistema-tareas-restaurante.git
    cd sistema-tareas-restaurante
-```
+   ```
 
 2. Compilar el proyecto:
-
-```bash
-javac src/**/*.java
-```
+   ```bash
+   javac src/**/*.java
+   ```
 
 3. Ejecutar:
-```bash
-java src/Main
-```
+   ```bash
+   java src/Main
+   ```
 
 ## Contribución
 1. Crear una rama de desarrollo:
-```bash
-git checkout -b dev
-```
+   ```bash
+   git checkout -b dev
+   ```
 2. Hacer commits claros y descriptivos.
 
 3. Subir cambios:
-
-```bash
-git push origin dev
-```
+   ```bash
+   git push origin dev
+   ```
 4. Abrir un Pull Request hacia main cuando el código esté listo.
 
 ## Licencia
