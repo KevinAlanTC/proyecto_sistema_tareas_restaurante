@@ -41,9 +41,9 @@ Si otro compañero ya subió algo a dev, antes de seguir trabajando:
   ```
 7. Pull Request (PR)
 Cuando la funcionalidad está lista:
-  En GitHub, abrir un PR de tu rama hacia dev.
-  Otro compañero revisa y aprueba.
-  Se hace el merge en dev.
+- En GitHub, abrir un PR de tu rama hacia dev.
+- Otro compañero revisa y aprueba.
+- Se hace el merge en dev.
 
 8. Integrar dev en main
 Cuando todo está probado y estable:
