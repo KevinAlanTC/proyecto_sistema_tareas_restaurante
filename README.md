@@ -39,7 +39,7 @@ sistema-tareas-restaurante/
 ## Instalación y ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/<usuario>/sistema-tareas-restaurante.git
+   git clone https://github.com/KevinAlanTC/proyecto_sistema_tareas_restaurante.git
    cd sistema-tareas-restaurante
    ```
 
